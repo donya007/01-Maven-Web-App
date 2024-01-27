@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1><font color='red'>Welcome to Donya Irani Information Technologies...1...!!</h1>
+<h1><font color='red'>Welcome to Donya Irani Information Technologies...:: Location ranchi...!!</h1>
 
 
 <h2><font color='green'>Learn Here.. Lead Anywhere...!!</h2>
