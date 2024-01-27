@@ -1,11 +1,8 @@
 <html>
 <body>
 
-<<<<<<< HEAD
-<h1><font color='red'>Welcome to Donya Irani Information Technologies.1.!!</h1>
-=======
 <h1><font color='red'>Welcome to Donya Irani Information Technologies...1...!!</h1>
->>>>>>> f6edd2804d0a70c3abb0651faed8bcd1478f0e1f
+
 
 <h2>Learn Here.. Lead Anywhere...!!</h2>
 
