@@ -1,8 +1,6 @@
 <html>
 <body>
 
-<h1><font color='red'>Welcome to Donya Irani Information Technologies.1.!!</h1>
-
 <h1><font color='red'>Welcome to Donya Irani Information Technologies...1...!!</h1>
 
 
