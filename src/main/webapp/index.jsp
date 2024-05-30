@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1><font color='red'>Welcome to Donya Irani Information Technologies Main Branch  :: Locating at Doranda Ranchi2 Jharkhand India. 1st change!!</h1>
+<h1><font color='red'>Welcome to Donya Irani Information Technologies Main Branch  :: Locating at Doranda Ranchi2 Jharkhand India.!!</h1>
 
 
 <h2><font color='green'>Learn Here.. Lead Anywhere....!!</h2>
